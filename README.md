@@ -68,6 +68,7 @@ Task lists use `- [ ]` for unchecked and `- [x]` for checked:
 ## Code Blocks 
 
 Inline code uses single backticks: `` `code` ``.
+![backtick keyboard](assets/backtick.png)
 
 Code blocks use triple backticks:
 
