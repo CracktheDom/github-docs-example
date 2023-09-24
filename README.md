@@ -71,20 +71,20 @@ Inline code uses single backticks: `` `code` ``.
 
 Code blocks use triple backticks:
 
-```
+````
 ```
 Code block
 here
 ```
-```
+````
 
 Specify language for syntax highlighting:
 
-```
+````
 ```python
 print('Hello world!) 
 ```
-```
+````
 ```python
 import this
 print(f"My name is {name}") 
