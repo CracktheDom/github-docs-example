@@ -1,8 +1,6 @@
-Here is a tutorial on using GitHub Flavored Markdown (GFM) [^1]:
-
 # GitHub Flavored Markdown Tutorial
 
-GFM is a version of Markdown supported across GitHub for simple text formatting. This guide will cover the basics.
+GFM is a version of Markdown supported across GitHub for simple text formatting. This guide will cover the basics.[^1]:
 
 ## Headings
 
