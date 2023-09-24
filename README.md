@@ -134,8 +134,8 @@ Text[^1]
 
 ## Superscript 
 
-+ Use ``<sup></sup>`` tags e.g. ``2<sup>10</sup>``
-2<sup>10</sup>
+Use ``<sup></sup>`` tags e.g. ``2<sup>10</sup>``
++ 2<sup>10</sup>
 
 ### References
 [^1]: See the [GFM Docs](https://github.github.com/gfm/) for more information!
